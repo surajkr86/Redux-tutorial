@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           welcome to React Redux
         </p>
+        <h1>Welcome to React tutorial with Redux</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
